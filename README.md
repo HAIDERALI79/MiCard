@@ -1,6 +1,5 @@
-# layout_challenge
+# MiCard test app based on app Brewery tutorial
 
-A new flutter Layout challenge.
 
 ## Getting Started
 
